@@ -35,7 +35,6 @@
 <img src= https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/numbers%20of%20cars%20booked.png width="2000" height="316">
 
 
-## 📋 Instructions
 #### Application Structure
 ```
 │
@@ -53,7 +52,8 @@
 └── README.md
 ```
 
-#### General
+
+## 📋 Instructions
 1. Install Dependencies using `npm install`
 2. Make sure `MongoDB` server is running
 3. Create a database named `CarRentals`
