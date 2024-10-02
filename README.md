@@ -31,4 +31,4 @@ h4 align="justify">About Car Rentals</h4>
 <img src= https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/adding%20cars%20page.png width="500" height="316">
 
 <h1>Number of cars booked</h1>
-<img src= https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/numbers%20of%20cars%20booked.png width="1500" height="316">
+<img src= https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/numbers%20of%20cars%20booked.png width="2000" height="316">
