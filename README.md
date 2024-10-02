@@ -66,3 +66,8 @@
 3. Run `npm start` or `nodemon start` (if nodemon is preinstalled)
 4. Launch client app in `localhost:5000`
 4. Launch admin app in `localhost:5000/admin`
+   
+
+<h1>Feel free to contact me!</h1>
+<p>Name : Adithya BS</p>
+<p>Email : workwithadithya01@gmail.com</p>
