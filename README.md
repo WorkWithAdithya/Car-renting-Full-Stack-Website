@@ -35,7 +35,7 @@
 <img src= https://github.com/WorkWithAdithya/Car-renting-Full-Stack-Website/blob/main/images/numbers%20of%20cars%20booked.png width="2000" height="316">
 
 
-#### Application Structure
+## Application Structure
 ```
 │
 ├── bin
